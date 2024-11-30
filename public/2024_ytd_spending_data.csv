@@ -1,0 +1,336 @@
+date,total_spending,largest_category
+2024-01-01,26.05,Dining Out (Casual)
+2024-01-02,39.61,Fitness (Gym/Equipment)
+2024-01-03,68.5,Dining Out (Fancy)
+2024-01-04,13.55,School Supplies
+2024-01-05,0.0,
+2024-01-06,73.85,Electronics
+2024-01-07,88.99,Health (Medication/Doctor Visit)
+2024-01-08,0.0,
+2024-01-09,15.4,Fitness (Gym/Equipment)
+2024-01-10,36.28,Groceries
+2024-01-11,0.0,
+2024-01-12,27.86,School Supplies
+2024-01-13,23.29,School Supplies
+2024-01-14,17.41,Books/Educational Materials
+2024-01-15,66.14,Dining Out (Fancy)
+2024-01-16,9.19,School Supplies
+2024-01-17,51.88,Dining Out (Fancy)
+2024-01-18,15.59,Streaming Services
+2024-01-19,0.0,
+2024-01-20,41.93,Dining Out (Fancy)
+2024-01-21,52.5,Gifts
+2024-01-22,22.71,School Supplies
+2024-01-23,79.6,Dining Out (Fancy)
+2024-01-24,15.16,Dining Out (Casual)
+2024-01-25,31.73,Fitness (Gym/Equipment)
+2024-01-26,182.29,Electronics
+2024-01-27,22.38,Groceries
+2024-01-28,66.41,Dining Out (Fancy)
+2024-01-29,19.71,Miscellaneous
+2024-01-30,19.14,School Supplies
+2024-01-31,147.14,Health (Medication/Doctor Visit)
+2024-02-01,30.48,Gifts
+2024-02-02,0.0,
+2024-02-03,74.98,Electronics
+2024-02-04,126.83,Electronics
+2024-02-05,21.31,School Supplies
+2024-02-06,22.81,School Supplies
+2024-02-07,0.0,
+2024-02-08,17.02,Dining Out (Casual)
+2024-02-09,39.69,Fitness (Gym/Equipment)
+2024-02-10,42.6,Miscellaneous
+2024-02-11,0.0,
+2024-02-12,73.88,Clothing
+2024-02-13,9.96,Transportation (Subway/Bus)
+2024-02-14,40.16,Clothing
+2024-02-15,18.61,Miscellaneous
+2024-02-16,0.0,
+2024-02-17,0.0,
+2024-02-18,0.0,
+2024-02-19,99.35,Electronics
+2024-02-20,17.05,Streaming Services
+2024-02-21,71.46,Dining Out (Fancy)
+2024-02-22,0.0,
+2024-02-23,0.0,
+2024-02-24,0.0,
+2024-02-25,5.66,Streaming Services
+2024-02-26,25.25,Books/Educational Materials
+2024-02-27,10.44,Dining Out (Casual)
+2024-02-28,22.67,Dining Out (Casual)
+2024-02-29,30.69,Gifts
+2024-03-01,88.79,Electronics
+2024-03-02,97.17,Gifts
+2024-03-03,0.0,
+2024-03-04,12.47,Gifts
+2024-03-05,2.77,Transportation (Subway/Bus)
+2024-03-06,0.0,
+2024-03-07,14.18,Streaming Services
+2024-03-08,32.65,Fitness (Gym/Equipment)
+2024-03-09,22.84,Groceries
+2024-03-10,36.78,Books/Educational Materials
+2024-03-11,23.67,Groceries
+2024-03-12,97.48,Gifts
+2024-03-13,12.27,School Supplies
+2024-03-14,6.78,Streaming Services
+2024-03-15,38.39,Clothing
+2024-03-16,43.65,Miscellaneous
+2024-03-17,51.44,Health (Medication/Doctor Visit)
+2024-03-18,97.37,Clothing
+2024-03-19,14.02,Dining Out (Casual)
+2024-03-20,26.56,School Supplies
+2024-03-21,41.38,Miscellaneous
+2024-03-22,0.0,
+2024-03-23,0.0,
+2024-03-24,0.0,
+2024-03-25,12.77,Groceries
+2024-03-26,6.53,Transportation (Subway/Bus)
+2024-03-27,94.97,Gifts
+2024-03-28,6.07,School Supplies
+2024-03-29,82.38,Clothing
+2024-03-30,9.01,Transportation (Subway/Bus)
+2024-03-31,14.45,Gifts
+2024-04-01,59.91,Gifts
+2024-04-02,54.16,Dining Out (Fancy)
+2024-04-03,90.1,Clothing
+2024-04-04,0.0,
+2024-04-05,4.64,Transportation (Subway/Bus)
+2024-04-06,117.55,Health (Medication/Doctor Visit)
+2024-04-07,18.55,Streaming Services
+2024-04-08,13.69,Dining Out (Casual)
+2024-04-09,28.22,Miscellaneous
+2024-04-10,29.94,Books/Educational Materials
+2024-04-11,42.34,Dining Out (Fancy)
+2024-04-12,30.14,Books/Educational Materials
+2024-04-13,73.93,Electronics
+2024-04-14,44.95,Books/Educational Materials
+2024-04-15,44.14,Health (Medication/Doctor Visit)
+2024-04-16,9.35,Miscellaneous
+2024-04-17,14.8,Fitness (Gym/Equipment)
+2024-04-18,26.05,Dining Out (Casual)
+2024-04-19,5.98,Streaming Services
+2024-04-20,29.9,Dining Out (Casual)
+2024-04-21,79.84,Health (Medication/Doctor Visit)
+2024-04-22,56.89,Clothing
+2024-04-23,101.89,Electronics
+2024-04-24,7.48,Transportation (Subway/Bus)
+2024-04-25,14.91,Dining Out (Casual)
+2024-04-26,47.23,Miscellaneous
+2024-04-27,23.91,Fitness (Gym/Equipment)
+2024-04-28,72.85,Dining Out (Fancy)
+2024-04-29,61.71,Gifts
+2024-04-30,0.0,
+2024-05-01,29.57,Fitness (Gym/Equipment)
+2024-05-02,73.93,Clothing
+2024-05-03,11.8,Streaming Services
+2024-05-04,11.4,Gifts
+2024-05-05,111.17,Health (Medication/Doctor Visit)
+2024-05-06,17.37,School Supplies
+2024-05-07,129.27,Health (Medication/Doctor Visit)
+2024-05-08,36.54,Dining Out (Fancy)
+2024-05-09,93.38,Dining Out (Fancy)
+2024-05-10,26.48,Dining Out (Casual)
+2024-05-11,72.75,Clothing
+2024-05-12,161.9,Electronics
+2024-05-13,47.33,Books/Educational Materials
+2024-05-14,0.0,
+2024-05-15,0.0,
+2024-05-16,59.8,Dining Out (Fancy)
+2024-05-17,24.1,Groceries
+2024-05-18,6.69,Miscellaneous
+2024-05-19,37.88,Miscellaneous
+2024-05-20,14.54,Fitness (Gym/Equipment)
+2024-05-21,38.97,Fitness (Gym/Equipment)
+2024-05-22,18.26,Books/Educational Materials
+2024-05-23,0.0,
+2024-05-24,18.33,Streaming Services
+2024-05-25,14.03,Streaming Services
+2024-05-26,0.0,
+2024-05-27,112.35,Health (Medication/Doctor Visit)
+2024-05-28,13.98,Dining Out (Casual)
+2024-05-29,0.0,
+2024-05-30,0.0,
+2024-05-31,37.29,Gifts
+2024-06-01,0.0,
+2024-06-02,46.41,Miscellaneous
+2024-06-03,92.67,Dining Out (Fancy)
+2024-06-04,0.0,
+2024-06-05,38.71,Miscellaneous
+2024-06-06,0.0,
+2024-06-07,132.3,Health (Medication/Doctor Visit)
+2024-06-08,75.48,Clothing
+2024-06-09,29.74,Fitness (Gym/Equipment)
+2024-06-10,0.0,
+2024-06-11,4.0,Transportation (Subway/Bus)
+2024-06-12,39.21,Dining Out (Fancy)
+2024-06-13,129.17,Health (Medication/Doctor Visit)
+2024-06-14,49.26,Books/Educational Materials
+2024-06-15,16.22,Books/Educational Materials
+2024-06-16,24.24,Groceries
+2024-06-17,49.12,Books/Educational Materials
+2024-06-18,44.62,Groceries
+2024-06-19,48.42,Groceries
+2024-06-20,48.39,Miscellaneous
+2024-06-21,20.82,Dining Out (Casual)
+2024-06-22,24.41,School Supplies
+2024-06-23,6.75,Transportation (Subway/Bus)
+2024-06-24,16.48,Fitness (Gym/Equipment)
+2024-06-25,34.14,Dining Out (Fancy)
+2024-06-26,6.41,School Supplies
+2024-06-27,27.33,School Supplies
+2024-06-28,62.16,Clothing
+2024-06-29,0.0,
+2024-06-30,99.42,Gifts
+2024-07-01,37.66,Books/Educational Materials
+2024-07-02,0.0,
+2024-07-03,95.73,Gifts
+2024-07-04,87.78,Gifts
+2024-07-05,15.94,Dining Out (Casual)
+2024-07-06,44.79,Clothing
+2024-07-07,80.81,Electronics
+2024-07-08,13.96,School Supplies
+2024-07-09,21.22,Dining Out (Casual)
+2024-07-10,24.6,Fitness (Gym/Equipment)
+2024-07-11,25.28,Clothing
+2024-07-12,13.72,Streaming Services
+2024-07-13,49.32,Books/Educational Materials
+2024-07-14,107.16,Health (Medication/Doctor Visit)
+2024-07-15,34.71,Groceries
+2024-07-16,15.04,Books/Educational Materials
+2024-07-17,76.59,Gifts
+2024-07-18,42.13,Miscellaneous
+2024-07-19,8.48,Transportation (Subway/Bus)
+2024-07-20,96.92,Clothing
+2024-07-21,12.67,School Supplies
+2024-07-22,32.62,Fitness (Gym/Equipment)
+2024-07-23,10.83,Gifts
+2024-07-24,28.98,School Supplies
+2024-07-25,29.19,Miscellaneous
+2024-07-26,0.0,
+2024-07-27,26.82,Clothing
+2024-07-28,88.4,Health (Medication/Doctor Visit)
+2024-07-29,0.0,
+2024-07-30,31.59,Groceries
+2024-07-31,4.3,Transportation (Subway/Bus)
+2024-08-01,39.72,Miscellaneous
+2024-08-02,99.06,Health (Medication/Doctor Visit)
+2024-08-03,8.24,Transportation (Subway/Bus)
+2024-08-04,37.75,Miscellaneous
+2024-08-05,0.0,
+2024-08-06,17.1,Streaming Services
+2024-08-07,123.98,Electronics
+2024-08-08,153.22,Electronics
+2024-08-09,0.0,
+2024-08-10,13.65,Groceries
+2024-08-11,26.9,Fitness (Gym/Equipment)
+2024-08-12,39.63,Fitness (Gym/Equipment)
+2024-08-13,16.17,School Supplies
+2024-08-14,0.0,
+2024-08-15,59.19,Dining Out (Fancy)
+2024-08-16,0.0,
+2024-08-17,58.62,Dining Out (Fancy)
+2024-08-18,0.0,
+2024-08-19,18.07,School Supplies
+2024-08-20,0.0,
+2024-08-21,37.82,Groceries
+2024-08-22,29.59,School Supplies
+2024-08-23,6.89,Transportation (Subway/Bus)
+2024-08-24,0.0,
+2024-08-25,21.96,Miscellaneous
+2024-08-26,17.66,Streaming Services
+2024-08-27,0.0,
+2024-08-28,8.15,Transportation (Subway/Bus)
+2024-08-29,34.01,Miscellaneous
+2024-08-30,20.76,Groceries
+2024-08-31,0.0,
+2024-09-01,16.63,Streaming Services
+2024-09-02,55.0,Clothing
+2024-09-03,19.48,School Supplies
+2024-09-04,13.18,Streaming Services
+2024-09-05,13.2,Groceries
+2024-09-06,10.8,Fitness (Gym/Equipment)
+2024-09-07,53.03,Clothing
+2024-09-08,80.39,Clothing
+2024-09-09,18.55,Fitness (Gym/Equipment)
+2024-09-10,8.61,Streaming Services
+2024-09-11,7.77,Transportation (Subway/Bus)
+2024-09-12,86.05,Electronics
+2024-09-13,95.6,Health (Medication/Doctor Visit)
+2024-09-14,10.26,Streaming Services
+2024-09-15,6.31,Streaming Services
+2024-09-16,36.0,Miscellaneous
+2024-09-17,14.28,Miscellaneous
+2024-09-18,9.16,Transportation (Subway/Bus)
+2024-09-19,99.59,Electronics
+2024-09-20,125.02,Electronics
+2024-09-21,43.45,Gifts
+2024-09-22,18.05,School Supplies
+2024-09-23,34.0,Gifts
+2024-09-24,31.9,Groceries
+2024-09-25,0.0,
+2024-09-26,33.05,Miscellaneous
+2024-09-27,21.72,Dining Out (Casual)
+2024-09-28,18.03,Books/Educational Materials
+2024-09-29,13.24,School Supplies
+2024-09-30,11.89,Dining Out (Casual)
+2024-10-01,25.85,Dining Out (Casual)
+2024-10-02,0.0,
+2024-10-03,191.35,Electronics
+2024-10-04,21.99,Groceries
+2024-10-05,6.94,Streaming Services
+2024-10-06,0.0,
+2024-10-07,19.88,Groceries
+2024-10-08,29.67,Books/Educational Materials
+2024-10-09,43.22,Books/Educational Materials
+2024-10-10,31.89,Groceries
+2024-10-11,0.0,
+2024-10-12,11.67,School Supplies
+2024-10-13,13.72,School Supplies
+2024-10-14,112.31,Health (Medication/Doctor Visit)
+2024-10-15,72.48,Clothing
+2024-10-16,20.1,Clothing
+2024-10-17,35.19,Clothing
+2024-10-18,5.91,Transportation (Subway/Bus)
+2024-10-19,65.87,Electronics
+2024-10-20,0.0,
+2024-10-21,0.0,
+2024-10-22,34.52,Gifts
+2024-10-23,29.34,Clothing
+2024-10-24,45.15,Miscellaneous
+2024-10-25,26.93,Fitness (Gym/Equipment)
+2024-10-26,9.6,School Supplies
+2024-10-27,15.05,Groceries
+2024-10-28,105.24,Health (Medication/Doctor Visit)
+2024-10-29,45.35,Groceries
+2024-10-30,57.27,Gifts
+2024-10-31,39.43,Fitness (Gym/Equipment)
+2024-11-01,135.06,Electronics
+2024-11-02,96.67,Clothing
+2024-11-03,91.32,Gifts
+2024-11-04,0.0,
+2024-11-05,0.0,
+2024-11-06,33.16,Health (Medication/Doctor Visit)
+2024-11-07,0.0,
+2024-11-08,10.9,Dining Out (Casual)
+2024-11-09,182.42,Electronics
+2024-11-10,15.44,Streaming Services
+2024-11-11,199.86,Electronics
+2024-11-12,8.15,Streaming Services
+2024-11-13,54.81,Clothing
+2024-11-14,36.15,Groceries
+2024-11-15,28.16,Clothing
+2024-11-16,71.01,Dining Out (Fancy)
+2024-11-17,52.29,Clothing
+2024-11-18,0.0,
+2024-11-19,49.12,Groceries
+2024-11-20,16.06,Streaming Services
+2024-11-21,13.06,School Supplies
+2024-11-22,36.17,Books/Educational Materials
+2024-11-23,11.57,Streaming Services
+2024-11-24,29.74,Dining Out (Casual)
+2024-11-25,0.0,
+2024-11-26,7.17,Transportation (Subway/Bus)
+2024-11-27,29.53,Gifts
+2024-11-28,20.82,Dining Out (Casual)
+2024-11-29,70.53,Clothing
+2024-11-30,27.95,Fitness (Gym/Equipment)
