@@ -61,15 +61,17 @@ const CalendarHeatmap = ({ data }) => {
     const firstDay = new Date(2024, month, 1).getDay();
 
     return (
-      <Card key={month} className="m-1 p-2">
-        <CardContent className="p-1">
-          <h2 className="text-sm font-semibold mb-1">{months[month]}</h2>
+      <Card key={month} className="m-1 p-1 flex flex-col items-center">
+        <CardContent className="p-0 flex flex-col items-center">
+          <h2 className="text-sm font-semibold mb-1 text-center">
+            {months[month]}
+          </h2>
           <div
-            className="inline-grid grid-cols-7 gap-[1px]"
+            className="inline-grid grid-cols-7 gap-[1px] justify-center"
             style={{ maxWidth: "fit-content" }}
           >
             {[...Array(firstDay)].map((_, i) => (
-              <div key={`empty-${i}`} className="w-6 h-6"></div>
+              <div key={`empty-${i}`} className="w-8 h-8"></div>
             ))}
             {[...Array(daysInMonth)].map((_, day) => {
               const date = `2024-${String(month + 1).padStart(2, "0")}-${String(
@@ -83,7 +85,7 @@ const CalendarHeatmap = ({ data }) => {
                   <Tooltip delayDuration={0}>
                     <TooltipTrigger asChild>
                       <div
-                        className="w-6 h-6 transition-all duration-150 ease-in-out hover:z-10 hover:outline hover:outline-1 hover:outline-black"
+                        className="w-8 h-8 transition-all duration-150 ease-in-out hover:z-10 hover:outline hover:outline-1 hover:outline-black"
                         style={{
                           backgroundColor: getColor(amount),
                         }}
@@ -91,13 +93,19 @@ const CalendarHeatmap = ({ data }) => {
                         onMouseLeave={() => setHoveredDay(null)}
                       ></div>
                     </TooltipTrigger>
-                    {dayData && (
-                      <TooltipContent className="tooltip-no-delay">
-                        <p>Date: {date}</p>
-                        <p>Total Spent: ${dayData.total_spending}</p>
-                        <p>Largest Category: {dayData.largest_category}</p>
-                      </TooltipContent>
-                    )}
+                    <TooltipContent className="tooltip-no-delay">
+                      <p>Date: {date}</p>
+                      <p>
+                        Total Spent: $
+                        {dayData ? dayData.total_spending : "0.00"}
+                      </p>
+                      <p>
+                        Largest Category:{" "}
+                        {dayData && parseFloat(dayData.total_spending) > 0
+                          ? dayData.largest_category
+                          : "None"}
+                      </p>
+                    </TooltipContent>
                   </Tooltip>
                 </TooltipProvider>
               );
